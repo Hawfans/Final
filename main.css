@@ -1,0 +1,60 @@
+/* This is the Home Page */
+html, body {
+	height: 100%;
+}
+.container {
+	min-height: 100%;
+	overflow: hidden;
+}
+.box1 {
+	background-color: #A74D64;
+	height: 100%;
+	padding-top: 25px;
+	color: #C1D6DB;
+	font-family: 'Slabo 27px', serif;
+}
+.picture {
+	background-color: #C1D6DB;
+	height: 100%;
+	font-family: 'Slabo 27px', serif;
+}
+#length {
+	margin-bottom: -9999px;
+	padding-bottom: 9999px;
+}
+.header {
+	color: grey;
+	padding-right: 15px;
+}
+img {
+	padding-top: 50px;
+}
+footer {
+	text-align: center;
+	background-color: #2B2B2B;
+	color: white;
+	padding: 10px 0 10px 0;
+}
+.page1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 18px;
+}
+h1 {
+	font-family: 'Chewy', cursive;
+}
+h2 {
+	font-family: 'Chewy', cursive;
+}
+h4 {
+	font-family: 'Chewy', cursive;
+}
+.btn {
+	padding-bottom: 10px;
+}
+#background {
+	background-color: #AC7676;
+}
+.contact {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 20px;
+}
